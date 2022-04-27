@@ -1,3 +1,7 @@
+<?php
+
+	require "conex.php";
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -21,9 +25,9 @@
 
 		<picture>
 
-			<source  media="(max-width=225px)" srcset="img/logo2.png" type="image/png">
+			<source media="(max-width: 225px)" srcset="img/logo2.png" type="image/png">
 
-			<source media="(max-width=300px)" srcset="img/logo1.png" type="image/png">
+			<source media="(max-width: 300px)" srcset="img/logo1.png" type="image/png">
 
 			<img src="img/logo.png" alt="Imagem Grande">
 		</picture>
