@@ -1,6 +1,12 @@
+/*Algumas tags obsoletas de html estão sendo utilizadas por enquanto, até que seja aplicado CSS*/
+
 <?php
 
 	require "conex.php";
+	require "src/artigos.php";
+
+	$artigo = new Artigos($conexao);
+	$artigos = $artigo-> exibirArtigos();
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -45,8 +51,18 @@
 	</div>
 
 	<div align="center">
-		<h2>Experiências Escritas</h2>
+		<h1>Experiências Escritas</h1>
 	</div>
+
+
+		<?php foreach($artigos as $artigo): ?>
+
+		<h2><?php echo $artigo['titulo']; ?></h2>
+
+		<p><?php echo $artigo['resumo']; ?></p>
+
+		<?php endforeach; ?>
+
 
 
 	<div align="center">
