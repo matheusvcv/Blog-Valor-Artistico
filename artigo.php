@@ -1,6 +1,11 @@
 <?php
 	
 	require"conex.php";
+	require"src/artigos.php";
+
+	$obj_artigo = new Artigos($conexao);
+
+	$artigo = $obj_artigo-> exibirPorId($_GET['id']);
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -14,9 +19,9 @@
 
 	<div align="center">
 
-		<h1>Titulo</h1>
+		<h1><?php echo $artigo['titulo']; ?></h1>
 
-		<p>Conteudo</p>
+		<p><?php echo $artigo['conteudo'] ?></p>
 
 		<div>
 			<a class="botao botao-block" href="index.php">Voltar</a>

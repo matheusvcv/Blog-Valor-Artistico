@@ -17,4 +17,17 @@
 
 			return $artigo;
 		}
+
+		public function exibirPorId(string $id): array
+		{
+			$setArtigo = $this->mysql->prepare("SELECT id, titulo, conteudo FROM artigos WHERE id=?");
+
+			$setArtigo-> bind_param('s', $id);
+
+			$setArtigo-> execute();
+
+			$artigo = $setArtigo-> get_result()->fetch_assoc();
+
+			return $artigo;
+		}
 	}
