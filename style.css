@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body{
+	background-color: white;
+	font-family: 'Arial';
+	color: black;
+
+}
+
+#container{
+	width: 90%;
+	background-color: black;
+	padding: 20px 40px;
+	color: blue;
+
+}
+
+#artigo{
+
+	width: 60%;
+	text-align: left;
+	margin: auto;
+}
+
+p{
+	text-align: justify;
+	margin: 0;
+
+}
+
+#texto{
+
+	text-align: center;
+	margin: auto;
+}
+
+#sn{
+	text-align: left;
+}
+
+#logo{
+	text-align: center;
+}
+
+
