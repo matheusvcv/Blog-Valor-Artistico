@@ -1,20 +1,19 @@
 <?php
 
-//Algumas tags obsoletas de html estão sendo utilizadas por enquanto, até que seja aplicado CSS
-
 	require "conex.php";
 	require "src/artigos.php";
 
 	$artigo = new Artigos($conexao);
 	$artigos = $artigo-> exibirArtigos();
 ?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width initial-scale=1.0">
 	<link rel="shortcut icon" href="img/cosvi.png" type="image/x-icon">
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<title>Valor Artístico</title>
 </head>
 <body>
@@ -73,9 +72,9 @@
 	</div><br>
 
 
-	<div align="center">
+	<!--<div align="center">
 		<img src="img/rodape.png" alt="imagem de rodapé">
-	</div>
+	</div>-->
 
 </body>
 </html>

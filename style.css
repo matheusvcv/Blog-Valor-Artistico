@@ -28,7 +28,6 @@ h1{
 }
 
 
-
 #logo{
   text-align: center;
 }
@@ -57,3 +56,32 @@ h1{
   padding: 20px 40px;
   margin-top: 20px;
 }
+
+#icone{
+  text-align: center;
+}
+
+.botao {
+  padding: 5px;
+  background-color: black;
+  color: #ffffff;
+  font-weight: bold;
+  border: solid 1px rgb(4, 58, 109);
+  text-decoration: none;
+}
+
+#artcompleto{
+  width: 75%;
+  margin: 0 auto;
+  background-color: #FFF;
+  padding: 20px 40px;
+  border: solid 1px black;
+  margin-top: 20px;
+}
+
+.campo-form {
+  margin: 10px 0;
+  display: block;
+  border: solid 1px black;
+}
+

@@ -17,15 +17,22 @@
 	<title>Valor Artístico</title>
 </head>
 <body>
-	<div id="">
-
-		<h1><?php echo nl2br($artigo['titulo']); ?></h1>
+	
+	<h1><?php echo nl2br($artigo['titulo']); ?></h1>
+	
+	<div id="artcompleto">
 
 		<p><?php echo $artigo['conteudo'] ?></p>
 
-		<div>
-			<a class="botao botao-block" href="index.php">Voltar</a>
-		</div>
+	</div><br>
+
+	<div id="icone">
+
+		<a href="index.php"><img src="img/voltar.png" height="50" width="50"></a><br>
+		<a href="index.php">Voltar</a>
+
+
 	</div>
+
 </body>
 </html>

@@ -30,4 +30,16 @@
 
 			return $artigo;
 		}
+
+		public function adicionar(string $titulo, string $resumo, string $conteudo): void
+		{
+			$adiciona = $this->mysql->prepare("INSERT INTO artigos(titulo, resumo, conteudo) VALUES(?,?,?)");
+
+			$adiciona-> bind_param('sss', $titulo, $resumo, $conteudo);
+
+			$adiciona-> execute();
+
+		}
+
+		
 	}
