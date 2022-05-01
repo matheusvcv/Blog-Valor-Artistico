@@ -1,45 +1,59 @@
-@charset "UTF-8";
-
-body{
-	background-color: white;
-	font-family: 'Arial';
-	color: black;
-
-}
-
-#container{
-	width: 90%;
-	background-color: black;
-	padding: 20px 40px;
-	color: blue;
-
-}
-
-#artigo{
-
-	width: 60%;
-	text-align: left;
-	margin: auto;
+body {
+  background-color: whitesmoke;
+  font-family: Verdana, Helvetica, Arial;
+  font-size: 14px;
+  text-align: justify;
 }
 
 p{
-	text-align: justify;
-	margin: 0;
-
+  text-align: center;
+  text-align: justify;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 20px;
 }
 
-#texto{
-
-	text-align: center;
-	margin: auto;
+h1{
+  text-align: center;
 }
 
-#sn{
-	text-align: left;
+
+#container {
+  width: 90%;
+  margin: 0 auto;
+  background-color: black;
+  padding: 20px 40px;
+  border: solid 1px black;
+  margin-top: 20px;
 }
+
+
 
 #logo{
-	text-align: center;
+  text-align: center;
+}
+#texto{
+
+  text-align: center;
+  width: 75%;
+  margin: 0 auto;
+  padding: 20px 40px;
+  margin-top: 20px;
 }
 
 
+#sn{
+  text-align: left;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px 40px;
+  margin-top: 20px;
+}
+
+#artigo{
+  width: 60%;
+  text-align: left;
+  margin: auto;
+  padding: 20px 40px;
+  margin-top: 20px;
+}

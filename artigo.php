@@ -13,11 +13,11 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width initial-scale=1.0">
 	<link rel="shortcut icon" href="img/cosvi.png">
-	<link rel="stylesheet" type="text/css" href="style1.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<title>Valor Artístico</title>
 </head>
 <body>
-	<div id="container">
+	<div id="">
 
 		<h1><?php echo nl2br($artigo['titulo']); ?></h1>
 
