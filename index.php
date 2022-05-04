@@ -68,7 +68,6 @@
 				<?php endforeach; ?>
 
 			</div>
-
 	</div><br>
 
 

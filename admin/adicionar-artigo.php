@@ -10,7 +10,7 @@
 		$artigo = new Artigos($conexao);
 		$artigo-> adicionar($_POST['titulo'], $_POST['resumo'], $_POST['conteudo']);
 
-		redireciona('/ValorArtistico/index.php');		
+		redireciona('/ValorArtistico/admin/index.php');		
 
 	}
 

@@ -41,5 +41,15 @@
 
 		}
 
+		public function deletar(string $id): void
+		{
+			$deleta = $this->mysql->prepare("DELETE FROM artigos WHERE id=?");
+
+			$deleta-> bind_param('s', $id);
+
+			$deleta-> execute();
+
+		}
+
 		
 	}
