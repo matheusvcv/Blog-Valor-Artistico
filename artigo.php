@@ -28,8 +28,8 @@
 
 	<div id="icone">
 
-		<a href="index.php"><img src="img/voltar.png" height="50" width="50"></a><br>
-		<a href="index.php">Voltar</a>
+		<a href="experiencias-escritas.php"><img src="img/voltar.png" height="50" width="50"></a><br>
+		<a href="experiencias-escritas.php">Voltar</a>
 
 
 	</div>

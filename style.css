@@ -31,14 +31,14 @@ h1{
 #logo{
   text-align: center;
 }
-#texto{
+/*#texto{
 
   text-align: center;
   width: 75%;
   margin: 0 auto;
   padding: 20px 40px;
   margin-top: 20px;
-}
+}*/
 
 
 #sn{
@@ -68,6 +68,8 @@ h1{
   font-weight: bold;
   border: solid 1px rgb(4, 58, 109);
   text-decoration: none;
+  margin left: 0;
+  margin-right: 0;
 }
 
 #artcompleto{
@@ -83,5 +85,53 @@ h1{
   margin: 10px 0;
   display: block;
   border: solid 1px black;
+}
+
+.quadrado{
+  background-color: pink;
+  border: solid 1px black;
+  border-radius: 10px;
+  width: 250px;
+  height: 250px;
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+#q2{
+  background-image: url(img/art1.png);
+}
+
+#q3{
+  background-image: url(img/art2b.png);
+}
+
+#q4{
+  background-image: url(img/art3.png);
+}
+
+.quadradop{
+  background-color: pink;
+  border: solid 1px black;
+  border-radius: 10px;
+  width: 180px;
+  height: 180px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+#q1{
+  background-image: url(img/gir.png);
+}
+
+.faixa{
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px 40px;
+  background-image: url(img/faixa.png);
+  margin-bottom: -24px;
 }
 
