@@ -20,7 +20,7 @@
 
 		public function exibirPorId(string $id): array
 		{
-			$setArtigo = $this->mysql->prepare("SELECT id, titulo, conteudo FROM artigos WHERE id=?");
+			$setArtigo = $this->mysql->prepare("SELECT id, titulo, conteudo, resumo FROM artigos WHERE id=?");
 
 			$setArtigo-> bind_param('s', $id);
 
@@ -49,6 +49,15 @@
 
 			$deleta-> execute();
 
+		}
+
+		public function alterar(string $titulo, string $resumo, string $conteudo, string $id): void
+		{
+			$altera = $this->mysql->prepare("UPDATE artigos SET titulo=?, resumo=?, conteudo=? WHERE id=?");
+
+			$altera-> bind_param('ssss', $titulo, $resumo, $conteudo, $id);
+
+			$altera-> execute();
 		}
 
 		

@@ -26,8 +26,9 @@
 	<title>Excluir Artigo</title>
 </head>
 <body>
+	<h1>Excluir um Artigo</h1>
 	<div id="artcompleto">
-		<h1>Excluir um Artigo</h1>
+	<h2>Tem certeza que gostaria de excluir este artigo?</h2>
 		<form method="POST" action="excluir-artigo.php">
 			<p>
 		<input type="hidden" name="id" value="<?php echo $_GET['id']; ?>">
