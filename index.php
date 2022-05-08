@@ -41,7 +41,7 @@
 	</div>
 
 	<div class="faixa">
-	</div><
+	</div>
 
 		<div>
 
@@ -86,43 +86,34 @@
 
 			<h1>Conheça Nosso Desenvolvedor</h1>
 
+	<div class="faixa">	
+	</div>
+
+	<div id="container1">
+
+		<div id="logo">
+			
+			<a href="https://www.instagram.com/matheusvcv/" target="_blank" type="external"><img src="img/insta.png" alt="instagram" align="left" width="28" height="28"></a>
+
+			<a href="https://www.linkedin.com/in/matheusvcv/" target="_blank" type="external"><img src="img/in.png" alt="Linkedin" align="left"  width="28" height="28"></a>
+
+			<a href="https://www.youtube.com/channel/UCuosS6TLk6g00axCYUM98UQ" target="_blank" type="external"><img src="img/tube.png"  align="left"  alt="YouTube" width="28" height="28"></a>
+
+			<a href="https://github.com/matheusvcv" target="_blank" type="external"><img src="img/git.png" alt="github"  align="left"  width="28" height="28"></a>
 
 
+			<img src="img/cosvib.png" alt="logo CVE">
+			<img src="img/rodlogo.png" alt="logo VA">
 
+			<img src="img/php.png" alt="php"  align="right"  width="28" height="28">
+			<img src="img/html.png" alt="html"  align="right"  width="28" height="28">
+			<img src="img/css.png" alt="css"  align="right"  width="28" height="28">
+			
+		</div>
+	</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-		<!-- </div>
-
-			<div id="artigo">
-
-				<?php foreach($artigos as $artigo): ?>
-
-				<h2><?php echo $artigo['titulo']; ?></h2>
-
-				<p><?php echo $artigo['resumo']; ?></p><br>
-				<p><a href="artigo.php?id=<?php echo $artigo['id']; ?>">Leia Mais</a></p>
-
-				<?php endforeach; ?>
-
-			</div>
-	</div><br> -->
-
-
-	<!--<div align="center">
-		<img src="img/rodape.png" alt="imagem de rodapé">
-	</div>-->
+	<div class="faixa">	
+	</div>
 
 </body>
 </html>
