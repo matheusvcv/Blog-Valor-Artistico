@@ -28,16 +28,16 @@
 	    <div class="collapse navbar-collapse" id="navbarNav">
 	      <ul class="navbar-nav">
 	        <li class="nav-item">
-	          <a class="nav-link active" aria-current="page" href="#">Home</a>
+	          <a class="nav-link active" aria-current="page" href="#">Início</a>
 	        </li>
 	        <li class="nav-item">
-	          <a class="nav-link" href="#">Features</a>
+	          <a class="nav-link" href="experiencias-escritas.php">Experiências Escritas</a>
 	        </li>
 	        <li class="nav-item">
-	          <a class="nav-link" href="#">Pricing</a>
+	          <a class="nav-link" href="costaviana-enterprise.php">CostaViana Enterprise</a>
 	        </li>
 	        <li class="nav-item">
-	          <a class="nav-link disabled">Disabled</a>
+	          <a class="nav-link" href="pagina-desenvolvedor.php">Página do Desenvolvedor</a>
 	        </li>
 	      </ul>
 	    </div>
