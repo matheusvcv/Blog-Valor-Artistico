@@ -18,7 +18,7 @@
 	<title>Valor Artístico</title>
 </head>
 <body>
-	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<nav class="navbar navbar-expand-lg navbar-dark fundo_preto">
 
 	  <div class="container-fluid">
 	    <a class="navbar-brand" href="#"><img src="img/cosvip.png"></a>
