@@ -17,6 +17,12 @@ h1{
   text-align: center;
 }
 
+.imagem-carrossel-um {
+  object-fit: cover;
+  object-position: 0 0;
+  height: 400px;
+}
+
 
 #container {
   width: 90%;
