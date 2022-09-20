@@ -18,8 +18,10 @@
 	<title>Valor Artístico</title>
 </head>
 <body>
-	<nav class="navbar navbar-expand-lg navbar-dark fundo_preto fixed-top">
 
+	<!-- Início do NavBar -->
+
+	<nav class="navbar navbar-expand-lg navbar-dark fundo_preto fixed-top">
 	  <div class="container-fluid">
 	    <a class="navbar-brand" href="#"><img src="img/cosvip.png"></a>
 	    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,37 +46,57 @@
 	  </div>
 	</nav>
 
+	<!-- Início do Carrossel  -->
 
-	<section class="carrossel">
-    <div id="carouselExampleCaptions" class="carousel slide" data-interval="3000" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="img/regicida.jpg" class="d-block w-100 imagem-carrossel-um" alt="...">
-          <div class="carousel-caption d-none d-md-block h-10">
-            <h1 class="fonte-titulo display-4">O Regicida!</h1>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img src="src/img/carrossel-img2.jpg" class="d-block w-100 imagem-carrossel-dois" alt="...">
-          <div class="carousel-caption d-none d-md-block h-50">
-            <h1 class="fonte-titulo display-4">Economize e ganhe em saúde!</h1>
-          </div>
-        </div>
-      </div>
-      <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
-  </carrossel><br>
+	<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+	  <div class="carousel-indicators">
+	    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+	    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+	    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+	  </div>
+	  <div class="carousel-inner">
+	    <div class="carousel-item active" data-bs-interval="2000">
+	      <img src="img/regicida.jpg" class="d-block w-100 imagem-carrossel-um" alt="...">
+	      <div class="carousel-caption d-none d-md-block">
+	        <h5>O Regicida!</h5>
+	        <p>As profundas nuances do ser humano. O que é a honra?.</p>
+	      </div>
+	    </div>
+	    <div class="carousel-item" data-bs-interval="2000">
+	      <img src="img/poke.png" class="d-block w-100 imagem-carrossel-um" alt="...">
+	      <div class="carousel-caption d-none d-md-block">
+	        <h5>Imersão e Alegria</h5>
+	        <p>O inocente sentimento de felicidade.</p>
+	      </div>
+	    </div>
+	    <div class="carousel-item" data-bs-interval="2000">
+	      <img src="img/metal.jpg" class="d-block w-100 imagem-carrossel-um" style="color: black;" alt="...">
+	      <div class="carousel-caption d-none d-md-block">
+	        <h5>Second slide label</h5>
+	        <p>Some representative placeholder content for the second slide.</p>
+	      </div>
+	    </div>
+	  </div>
+	  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+	    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+	    <span class="visually-hidden">Previous</span>
+	  </button>
+	  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+	    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+	    <span class="visually-hidden">Next</span>
+	  </button>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
 
 	<div class="faixa">	
 	</div>
