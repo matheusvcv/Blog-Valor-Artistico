@@ -103,18 +103,7 @@
 
 	<div id="container">
 
-		<table width="100%"> 
 
-			<tr>
-				<th><a href="experiencias-escritas.php" target="_self" style="color:white;">Experiências Escritas</a></th>	
-				<th><a href="podcast.php" target="_self" style="color:white;">VA PodCast</a></th>
-				<th><a href="costaviana-enterprise.php" target="_self" style="color:white;">CostaViana Enterprise</a></th>
-				<th><a href="pagina-desenvolvedor.php" target="_self" style="color:white;">Página do Desenvolvedor</a></th>
-				<th><a href="https://github.com/matheusvcv/Blog-Valor-Artistico" target="_blank" style="color:white;">Colabore Com o Código do Blog</a></th>
-
-			</tr>
-
-		</table><br>
 
 		<div id="logo">
 
