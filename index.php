@@ -235,9 +235,9 @@
 			<img src="img/cosvib.png" alt="logo CVE">
 			<img src="img/rodlogo.png" alt="logo VA">
 
-			<img src="img/php.png" alt="php"  align="right"  width="28" height="28">
+			<!--<img src="img/php.png" alt="php"  align="right"  width="28" height="28">
 			<img src="img/html.png" alt="html"  align="right"  width="28" height="28">
-			<img src="img/css.png" alt="css"  align="right"  width="28" height="28">
+			<img src="img/css.png" alt="css"  align="right"  width="28" height="28">-->
 
 		</div>
 	</div>
