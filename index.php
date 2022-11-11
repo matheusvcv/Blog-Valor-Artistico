@@ -55,25 +55,25 @@
 	    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
 	  </div>
 	  <div class="carousel-inner">
-	    <div class="carousel-item active" data-bs-interval="2000">
+	    <div class="carousel-item active" data-bs-interval="3000">
 	      <img src="img/regicida.jpg" class="d-block w-100 imagem-carrossel-um" alt="...">
 	      <div class="carousel-caption d-none d-md-block">
 	        <h5>O Regicida!</h5>
-	        <p>As profundas nuances do ser humano. O que é a honra?.</p>
+	        <p class="text-center">As profundas nuances do ser humano. O que é a honra?.</p>
 	      </div>
 	    </div>
-	    <div class="carousel-item" data-bs-interval="2000">
+	    <div class="carousel-item" data-bs-interval="3000">
 	      <img src="img/poke.png" class="d-block w-100 imagem-carrossel-um" alt="...">
 	      <div class="carousel-caption d-none d-md-block">
-	        <h5>Imersão e Alegria</h5>
-	        <p>O inocente sentimento de felicidade.</p>
+	        <h5 style="background-color: black;">Imersão e Alegria</h5>
+	        <p class="text-center">O inocente sentimento de felicidade.</p>
 	      </div>
 	    </div>
-	    <div class="carousel-item" data-bs-interval="2000">
+	    <div class="carousel-item" data-bs-interval="3000">
 	      <img src="img/metal.jpg" class="d-block w-100 imagem-carrossel-um" style="color: black;" alt="...">
 	      <div class="carousel-caption d-none d-md-block">
-	        <h5>Second slide label</h5>
-	        <p>Some representative placeholder content for the second slide.</p>
+	        <h5>Kept You Waiting Huh?</h5>
+	        <p class="text-center">Como metal gear solid ajudou a construir um ser humano?</p>
 	      </div>
 	    </div>
 	  </div>
@@ -87,33 +87,6 @@
 	  </button>
 	</div>
 
-
-
-
-
-
-
-
-
-
-
-
-	<div class="faixa">	
-	</div>
-
-	<div id="container">
-
-
-
-		<div id="logo">
-
-				<img src="img/logob.png" alt="logo">
-		</div>
-
-	</div>
-
-	<div class="faixa">
-	</div>
 
 		<div>
 
