@@ -56,21 +56,21 @@
 	  </div>
 	  <div class="carousel-inner">
 	    <div class="carousel-item active" data-bs-interval="3000">
-	      <img src="img/regicida.jpg" class="d-block w-100 imagem-carrossel-um" alt="...">
+	      <img src="img/regicida.jpg" class="d-block w-100 imagem-carrossel-um">
 	      <div class="carousel-caption d-none d-md-block">
 	        <h5>O Regicida!</h5>
 	        <p class="text-center">As profundas nuances do ser humano. O que é a honra?.</p>
 	      </div>
 	    </div>
 	    <div class="carousel-item" data-bs-interval="3000">
-	      <img src="img/poke.png" class="d-block w-100 imagem-carrossel-um" alt="...">
+	      <img src="img/poke2.png" class="d-block w-100 imagem-carrossel-um">
 	      <div class="carousel-caption d-none d-md-block">
-	        <h5 style="background-color: black;">Imersão e Alegria</h5>
-	        <p class="text-center">O inocente sentimento de felicidade.</p>
+	        <h5>Imersão e Alegria</h5>
+	        <p class="text-center">O inocente sentimento de felicidade ao vivenciar sua jornada Pokemon.</p>
 	      </div>
 	    </div>
 	    <div class="carousel-item" data-bs-interval="3000">
-	      <img src="img/metal.jpg" class="d-block w-100 imagem-carrossel-um" style="color: black;" alt="...">
+	      <img src="img/metal.jpg" class="d-block w-100 imagem-carrossel-um" style="color: black;">
 	      <div class="carousel-caption d-none d-md-block">
 	        <h5>Kept You Waiting Huh?</h5>
 	        <p class="text-center">Como metal gear solid ajudou a construir um ser humano?</p>
@@ -101,7 +101,7 @@
 			
 		</div><br>
 
-			<h1>Experiências Escritas</h1>
+			<br><h1>Experiências Escritas</h1><br>
 
 			<p><q>Todos os elementos da boa escrita dependem da habilidade do escritor de escolher uma palavra em vez de outra. E o que prende e mantém nosso interesse tem tudo a ver com essas escolhas.</q><em><strong>Francine Prose.</strong></em></p><br>
 
