@@ -95,17 +95,12 @@
 			<p>O Valor Artístico é um blog que tem o intuito de trazer ao público conteúdos voltados à sensação que sentimos quando algo nos toca profundamente. Nosso intuito é compartilhar essas experiências, de modo à conectar uma pluralidade de experiências individuais e aprender uns com os outros. Acreditamos que o compartilhamento de sentimentos ajuda na compreensão humana e na construção de relacionamentos.</p><br>
 
 			<p><strong>Atenção:</strong> Entendemos que cada indivíduo é dententor de uma sensibilidade artística única, que tem a ver com sua própria inividualidade e essência. Sendo assim, a arte fala com cada um nós de maneira específica. Não acreditamos na utilização de padrões técncos para avaliar expressões artísticas, e nem na hierarquização de obras ou experiências. O Valor Artístico tem a ver com perspectivas e é qualitativo, não quantitativo.</p><br>
-
-			<br><div class="quadradop" id="q1">
-			</div>
 			
-		</div><br>
+		</div>
 
-			<br><h1>Experiências Escritas</h1><br>
+			<h1>Experiências Escritas</h1><br>
 
-			<p><q>Todos os elementos da boa escrita dependem da habilidade do escritor de escolher uma palavra em vez de outra. E o que prende e mantém nosso interesse tem tudo a ver com essas escolhas.</q><em><strong>Francine Prose.</strong></em></p><br>
-
-			<br><div align="center">
+			<div align="center">
 				<div class="quadrado" id="q2">
 				</div>
 
@@ -116,8 +111,11 @@
 				</div>
 			</div><br>
 
+			<p><q>Todos os elementos da boa escrita dependem da habilidade do escritor de escolher uma palavra em vez de outra. E o que prende e mantém nosso interesse tem tudo a ver com essas escolhas.</q><em><strong>Francine Prose.</strong></em></p>
+
+
 			<p>Sabe quando você e exposto a algum tipo de expressão artística humana e ela te toca de tal forma que você simplesmente precisa falar sobre isso?</p>
-			<p>Essa parte do blog é destinada para exposição doe artigos de pessoas que decidiram expressar esses sentimentos de maneira escrita. Clique no botão abaixo e seja direcionado para a nossa biblioteca de artigos e entenda como a arte foi recebida pelos nossos escritores voluntários:</p><br>
+			<p>Essa parte do blog é destinada para exposição doe artigos de pessoas que decidiram expressar esses sentimentos de maneira escrita. Clique no botão abaixo e seja direcionado para a nossa biblioteca de artigos e entenda como a arte foi recebida pelos nossos escritores voluntários:</p>
 
 			<div align="center">
 
