@@ -87,7 +87,6 @@
 	  </button>
 	</div>
 
-
 		<div>
 
 			<h1 id="sn">Sobre Nós:</h1>
@@ -123,9 +122,9 @@
 
 			</div><br>
 
-			<h1>Nosso PodCast</h1>
+			<br><h1>Nosso PodCast</h1>
 
-			<p>O poder dos podcasts está relacionado com a conexão profunda com o ouvinte e a facilidade no consumo.</p><br>
+			<br><p>O poder dos podcasts está relacionado com a conexão profunda com o ouvinte e a facilidade no consumo.</p><br>
 
 			<br><div align="center">
 				<div class="quadrado" id="q6">
@@ -133,9 +132,9 @@
 
 				<div class="quadrado" id="q7">
 				</div>
-			</div>
+			</div><br>
 
-			<p>O <strong><em>"Valor Artístico PodCast"</em></strong> será formado por um grupo de amigos falando sobre suas próprias experiências artísticas. Faleremos sobre filmes, séries, jogos, livros, viagens, experiências, museus e sobre muitas outras coisas. O diferencail, é que abordaremos todos esses temas sem utilizar nenhum tipo de padrão técnico. Falaremos sobre tudo isso com base somente no valor artístico. Serão visões totalmente únicas e autenticas, que teferão sentir e refletir.</p><br>
+			<br><p>O <strong><em>"Valor Artístico PodCast"</em></strong> será formado por um grupo de amigos falando sobre suas próprias experiências artísticas. Faleremos sobre filmes, séries, jogos, livros, viagens, experiências, museus e sobre muitas outras coisas. O diferencail, é que abordaremos todos esses temas sem utilizar nenhum tipo de padrão técnico. Falaremos sobre tudo isso com base somente no valor artístico. Serão visões totalmente únicas e autenticas, que teferão sentir e refletir.</p><br>
 
 			<div align="center">
 
