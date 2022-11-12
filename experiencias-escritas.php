@@ -27,7 +27,7 @@
 
 				<h2><?php echo $artigo['titulo']; ?></h2>
 
-				<p><?php echo $artigo['resumo']; ?></p><br>
+				<p><?php echo $artigo['resumo']; ?></p>
 				<p><a href="artigo.php?id=<?php echo $artigo['id']; ?>">Leia Mais</a></p>
 
 				<?php endforeach; ?>
