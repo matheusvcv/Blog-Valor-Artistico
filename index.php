@@ -179,7 +179,6 @@
 
 			<br><div align="center">
 
-			<br><img src="img/lond.png">
 
 			</div><br>
 
