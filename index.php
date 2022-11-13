@@ -169,7 +169,7 @@
 
 			<h1>Conheça Nosso Desenvolvedor</h1>
 
-			<p>Caso queira conhecer o desenvolvedro do blog Valor Arístico clique no botão logo abaixo, e seja redirecionado para a página de divulgação deste:</p><br>
+			<br><p>Caso queira conhecer o desenvolvedro do blog Valor Arístico clique no botão logo abaixo, e seja redirecionado para a página de divulgação deste:</p><br>
 
 			<br><div align="center">
 
@@ -184,7 +184,7 @@
 
 
 
-	<div id="container1">
+	<div id="container1" style="background-color: whitesmoke;">
 
 		<div id="logo">
 			
@@ -196,16 +196,11 @@
 
 			<a href="https://github.com/matheusvcv" target="_blank" type="external"><img src="img/git.png" alt="github"  align="left"  width="28" height="28"></a>
 
-
 			<img src="img/cosvib.png" alt="logo CVE">
-			<img src="img/rodlogo.png" alt="logo VA">
-
-			<!--<img src="img/php.png" alt="php"  align="right"  width="28" height="28">
-			<img src="img/html.png" alt="html"  align="right"  width="28" height="28">
-			<img src="img/css.png" alt="css"  align="right"  width="28" height="28">-->
+			<img src="img/logo.png" alt="logo VA">
 
 		</div>
-	</div>
+	</div><br>
 
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
 </body>
