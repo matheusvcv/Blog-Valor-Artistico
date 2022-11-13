@@ -97,6 +97,8 @@
 			
 		</div>
 
+		<hr>
+
 			<h1>Experiências Escritas</h1><br>
 
 			<div align="center">
@@ -122,6 +124,8 @@
 
 			</div><br>
 
+			<hr>
+
 			<br><h1>Nosso PodCast</h1>
 
 			<br><p>O poder dos podcasts está relacionado com a conexão profunda com o ouvinte e a facilidade no consumo.</p><br>
@@ -142,25 +146,17 @@
 
 			</div><br>
 
-			
-
-			<br><div align="center">
-
-				<img src="img/enfeite.png" alt="enfeite">
-
-			</div><br>
-
-
+			<hr>
 
 			<h1>CostaViana Enterprise</h1>
 
-			<p>O blog Valor Artístico é um produto CostaViana Enterprise. Logo abaixo, você poderá ler um pequeno resumo sobre a ideia central deste projeto que ainda está em formação, mas tem potêncial para se tornar enorme. A logo do projeto é uma onça-pintada, como forma de representar poder, singularidade e adaptabilidade..</p><br>
+			<br><p>O blog Valor Artístico é um produto CostaViana Enterprise. Logo abaixo, você poderá ler um pequeno resumo sobre a ideia central deste projeto que ainda está em formação, mas tem potêncial para se tornar enorme. A logo do projeto é uma onça-pintada, como forma de representar poder, singularidade e adaptabilidade..</p><br>
 
 			<div align="center">
 
 				<img src="img/cosvib.png" alt="logo CVE">
 
-			</div>
+			</div><br>
 
 				<p>A CostaViana Enterprise é um projeto de empresa de tecnologia voltada para o desenvolvimento dos mais variados tipos de software.</p>
 				<p>O nosso objetivo é produzir Aplicações Web, Jogos, Aplicativos Mobile e qualquer outro tipo de software que facilite nosso dia-a-dia e/ou promova entretenimento.</p>
@@ -169,7 +165,7 @@
 
 			</div><br>
 
-
+		<hr>
 
 			<h1>Conheça Nosso Desenvolvedor</h1>
 
